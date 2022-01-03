@@ -1,3 +1,3 @@
 ### easy come,easy go.
 #### personal web
-#####  http://www.easygao.top:7777/
+#####  http://47.94.222.2:7777/
